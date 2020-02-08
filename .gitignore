@@ -64,6 +64,13 @@ coverage.xml
 *.mo
 *.pot
 
+# txt stuff
+*.txt
+*.doc
+*.docx
+*.pdf
+*.odt
+
 # Django stuff:
 *.log
 local_settings.py
